@@ -1,4 +1,4 @@
-# Mario-Cart-Random-Course
+# Mario-Kart-Random-Course
 A pure HTML, CSS, and JS random course picker for Mario Kart™️ Deluxe. 
 
 ## About 
